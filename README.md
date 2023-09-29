@@ -13,10 +13,11 @@ My skills are:
 - Chrome Extension and App building
 - Being an idiot
 
-Some projects I'm working on:
-- RMCT - Remote Controller (relies on BLANK3R, unblock 70% of your chromebook semi-permenantly, not publicly available yet, still being tested (should be universal))
-- BLANK3R (not to be confused with blank3r, run code on any url with full api access, not publicly available yet)
-- 3DSL - 3DS subsystem for Linux (homebrew port of linux binaries to the 3Ds similar to WSL, not publicly available yet)
-- A DOOM compilation on a non-jailbroken iPhone (still being tested)
-- Some dumb Cookie Clicker mods (not publicly available yet)
-- Porting Mincraft Java to ChromeOS without crostini (still being tested)
+Some projects I'm working on (note some are not yet public):
+- My Website
+- UnblindMe - GBB Partition editor for ChromeOS designed to replace some of the blinding white screens
+- A DOOM compilation on iSH
+- Miner - A cookie clicker mod for adding a mining minigame to the mines
+- Polus - A SH1mmer-like kit for recomod
+- Remote Controller - A 5 in 1 extension toolkit to make ChromeOS more powerful
+- BLANK3R (not to be confused with blank3r) - A chromebook exploit for running code on any url with full API access
