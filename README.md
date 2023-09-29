@@ -20,4 +20,4 @@ Some projects I'm working on (note some are not yet public):
 - Miner - A cookie clicker mod for adding a mining minigame to the mines
 - Polus - A SH1mmer-like kit for recomod
 - Remote Controller - A 5 in 1 extension toolkit to make ChromeOS more powerful
-- BLANK3R (not to be confused with blank3r) - A chromebook exploit for running code on any url with full API access
+- BLANK3R (not to be confused with blank3r) - A CRX exploit for running code on any url with full API access
