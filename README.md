@@ -15,7 +15,6 @@ My skills are:
 
 Some projects I'm working on (note some are not yet public):
 - My Website
-- UnblindMe - GBB Partition editor for ChromeOS designed to replace some of the blinding white screens
 - A DOOM compilation on iSH
 - Miner - A cookie clicker mod for adding a mining minigame to the mines
 - Polus - A SH1mmer-like kit for recomod
